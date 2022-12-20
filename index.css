@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: forestgreen;
+    font-family: cursive;
+    text-align: center;
+}
+
+mark {
+    background-color: lightskyblue;
+    color: blue;
+}
+#descripcion {
+    text-align: center;
+    margin: 20px 250px;
+    font-family: cursive;
+    color:forestgreen;
+    font-weight: bold;
+}
+#red-text {
+    color: red;
+    
+}
