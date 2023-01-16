@@ -5,7 +5,7 @@
 			<head>
 				<body>
 					<h1>Información de la canción</h1>
-					<h2><xls:value-of select="cancion/titulo"/></h2>
+					<h2><xsl:value-of select="cancion/titulo"/></h2>
 				</body>
 			</head>
 		</html>
